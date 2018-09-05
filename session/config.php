@@ -1,5 +1,6 @@
 <?php
 
+//Arquivo que configura a SESION
 session_start();
 
 //apagar a variavel de session chamado nome
