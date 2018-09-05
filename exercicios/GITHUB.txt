@@ -1,0 +1,16 @@
+------ cd abrir a pasta
+
+------git init = cria o repositorio git
+
+------git add  "arquivo.php" = pega arquivo p o git
+------git add --all = pega todos das pastas p o git
+
+------git commit -m "Atualizei arquivos" = Comit p mandar os arquivos  p o git
+
+------git remote add origin https://github.com/andre4mil/php.git = onde ela vai p seu servidor
+
+------git config --global user.name "André 4mil" = indentifica nome do usuário
+
+------git config --global user.email "andré4mil@gmail.com" = indentifica e-mail do usuário
+
+--------git push origin master = mandar arquivos p GitHub online
